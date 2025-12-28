@@ -113,7 +113,7 @@ const default_config = {
           links: [
             {
               name: "github",
-              url: "https://github.com/swopnil7",
+              url: "https://github.com/",
               icon: "brand-github",
               icon_color: palette.green,
             },
