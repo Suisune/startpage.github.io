@@ -106,12 +106,6 @@ const default_config = {
               icon: "brand-linkedin",
               icon_color: palette.blue,
             },
-            {
-              name: "swops",
-              url: "https://swopniladhikari.com.np",
-              icon: "home",
-              icon_color: palette.yellow,
-            },
           ],
         },
         {
