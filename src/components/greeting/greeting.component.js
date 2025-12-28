@@ -5,7 +5,7 @@ class Greeting extends Component {
 
   constructor() {
     super();
-    this.name = "Swops";
+    this.name = "Suisune";
     this.greetings = [
       `Hey, ${this.name}!🤍`,
       `Welcome back, ${this.name}!`,
