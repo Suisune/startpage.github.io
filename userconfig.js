@@ -143,7 +143,7 @@ const default_config = {
           links: [
             {
               name: "leetcode",
-              url: "https://leetcode.com/u/swopnil7/",
+              url: "https://leetcode.com/u/",
               icon: "brand-leetcode",
               icon_color: palette.yellow,
             },
